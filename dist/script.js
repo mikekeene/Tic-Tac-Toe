@@ -50,10 +50,7 @@ class Game extends React.Component {
       React.createElement("div", null), /*#__PURE__*/
       React.createElement("ol", null))));
 
-
-
   }}
-
 
 // ========================================
 
